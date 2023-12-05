@@ -1,0 +1,105 @@
+export const data = [
+  {
+    name: "Manufacturing",
+    subGroups: ["Construction materials", "Electronics and Optics"],
+  },
+  {
+    name: "Food and Beverage",
+    subGroups: [
+      "Bakery & confectionery products",
+      "Beverages",
+      "Fish & fish products",
+      "Meat & meat products",
+      "Milk & dairy products",
+      "Other",
+      "Sweets & snack food",
+    ],
+  },
+  {
+    name: "Furniture",
+    subGroups: [
+      "Bathroom/sauna",
+      "Bedroom",
+      "Children’s room",
+      "Kitchen",
+      "Living room",
+      "Office",
+      "Other (Furniture)",
+      "Outdoor",
+      "Project furniture",
+    ],
+  },
+  {
+    name: "Machinery",
+    subGroups: [
+      "Machinery components",
+      "Machinery equipment/tools",
+      "Manufacture of machinery",
+      "Maritime",
+    ],
+  },
+  {
+    name: "Metalworking",
+    subGroups: [
+      "Construction of metal structures",
+      "Houses and buildings",
+      "Metal products",
+      "Metal works",
+      "CNC-machining",
+      "Forgings, Fasteners",
+      "Gas, Plasma, Laser cutting",
+      "MIG, TIG, Aluminum welding",
+    ],
+  },
+  {
+    name: "Plastic and Rubber",
+    subGroups: [
+      "Packaging",
+      "Plastic goods",
+      "Plastic processing technology",
+      "Blowing",
+      "Moulding",
+      "Plastics welding and processing",
+      "Plastic profiles",
+    ],
+  },
+  {
+    name: "Printing",
+    subGroups: [
+      "Advertising",
+      "Book/Periodicals printing",
+      "Labelling and packaging printing",
+    ],
+  },
+  {
+    name: "Textile and Clothing",
+    subGroups: ["Clothing", "Textile"],
+  },
+  {
+    name: "Wood",
+    subGroups: ["Other (Wood)", "Wooden building materials", "Wooden houses"],
+  },
+  {
+    name: "Other",
+    subGroups: ["Creative industries", "Energy technology", "Environment"],
+  },
+  {
+    name: "Service",
+    subGroups: [
+      "Business services",
+      "Engineering",
+      "Information Technology and Telecommunications",
+      "Data processing, Web portals, E-marketing",
+      "Programming, Consultancy",
+      "Software, Hardware",
+      "Telecommunications",
+      "Tourism",
+      "Translation services",
+      "Transport and Logistics",
+      "Air",
+      "Rail",
+      "Road",
+      "Water",
+    ],
+  },
+];
